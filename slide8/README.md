@@ -3,7 +3,7 @@
 [![Package Version](https://img.shields.io/hexpm/v/slide8)](https://hex.pm/packages/slide8)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/slide8/)
 
-#context from slide
+# Immutablity in gleam
 
 In gleam you set variables using the let keyword.
 Once a variable is set you can not change its value however you can reuse the name of a variable and gleam will use the newly assigned variable in its place. 
