@@ -16,7 +16,7 @@ to run one of the slides from the terminal<br/>
 
 # The anatomy of a gleam program
 
-<link href="https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide7">link to slide 7</link>
+link to slide 7("https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide7")
 
 
 ```
@@ -30,7 +30,7 @@ pub fn main() {
 
 # Immutability in gleam
 
-<link href="https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide8">link to slide 8</link>
+link to slide 8(https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide8)
 
 ```
 pub fn main() {
@@ -43,7 +43,7 @@ pub fn main() {
 # types in gleam 
 
 
-<link href="https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide9">link to slide 9</link>
+link to slide 9(https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide9)
 
 ```
 pub fn main() {
