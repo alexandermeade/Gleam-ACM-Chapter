@@ -55,8 +55,6 @@ fn dec_in_range(x:Int, min: Int, max: Int) -> Int {
 
 ```
 
-Further documentation can be found at <https://hexdocs.pm/slide16_19>.
-
 ## Development
 
 ```sh
