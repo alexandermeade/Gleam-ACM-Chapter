@@ -3,7 +3,7 @@
 [![Package Version](https://img.shields.io/hexpm/v/slide7)](https://hex.pm/packages/slide7)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/slide7/)
 
-# Immutability in gleam
+# Anatomy of a gleam program
 
 In gleam you set variables using the let keyword.
 Once a variable is set you can not change its value however you can reuse the name of a variable and gleam will use the newly assigned variable in its place. 
