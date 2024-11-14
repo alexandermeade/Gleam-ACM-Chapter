@@ -16,7 +16,7 @@ to run one of the slides from the terminal<br/>
 
 # The anatomy of a gleam program
 
-link to slide 7("https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide7")
+[link to slide 7]("https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide7")
 
 
 ```
@@ -30,7 +30,7 @@ pub fn main() {
 
 # Immutability in gleam
 
-link to slide 8(https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide8)
+[link to slide 8](https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide8)
 
 ```
 pub fn main() {
@@ -43,7 +43,7 @@ pub fn main() {
 # types in gleam 
 
 
-link to slide 9(https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide9)
+[link to slide 9](https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide9)
 
 ```
 pub fn main() {
@@ -54,7 +54,7 @@ pub fn main() {
 
 # defining functions in gleam
 
-<link href="https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide10">link to slide 10</link>
+[link to slide 10](https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide10)
 
 ```
 pub fn fizzbuzz() -> String {
@@ -68,7 +68,7 @@ pub fn main() {
 
 # implicit returns in gleam
 
-<link href="https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide11">link to slide 11</link>
+[link to slide 11](https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide11)
 
 ```
 import gleam/io
@@ -82,7 +82,7 @@ pub fn main() {
 
 # lists in gleam with the .. operator
 
-<link href="https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide12">link to slide 12</link>
+[link to slide 12](https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide12)
 
 ```
 import gleam/io
@@ -97,7 +97,7 @@ pub fn main() {
 
 # higher order functions in gleam
 
-<link href="https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide13">link to slide 13</link>
+[link to slide 13](https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide13)
 
 ```
 import gleam/io
@@ -114,8 +114,7 @@ pub fn main() {
 
 # anonymous functions in gleam
 
-
-<link href="https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide14">link to slide 14</link>
+[link to slide 14]https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide14)
 
 ```
 import gleam/io
@@ -131,7 +130,7 @@ pub fn main() {
 # the |> operator gleam
 
 
-<link href="https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide15">link to slide 15</link>
+[link to slide 15](https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide15)
 
 ```
 import gleam/io
@@ -148,7 +147,7 @@ pub fn main() {
 
 # Control flow in gleam
 
-<link href="https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide16_19">link to slide 16 through 19</link>
+[link to slide 16 through 19 ](https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide16_19)
 
 ```
 //slide 16
@@ -198,7 +197,7 @@ fn dec_in_range(x:Int, min: Int, max: Int) -> Int {
 
 # Custom types, contained types, records; matching contained types,  generic types and records.
 
-<link href="https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide20_26">link to slide 20 through 26</link>
+[link to slide 20 through 26](https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide20_26)
 
 ```
 //slide 20
@@ -244,7 +243,7 @@ type LinkedList(value_type) {
 
 #  Generic Functions in gleam
 
-<link href="https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide26_27">/<link>
+[link to slides 26 through 27](https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide26_27)
 
 ```
 import gleam/io
