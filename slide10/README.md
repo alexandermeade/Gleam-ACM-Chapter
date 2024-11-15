@@ -12,15 +12,13 @@ Then use the fn keyword, followed by the function name, arguments, return type, 
 
 ```gleam
 pub fn fizzbuzz() -> String {
-  // the code…
+  // the code...
 }
 // if no return type is given the fn will return nil (nothing)
 pub fn main() {
-  //the code…
+  //the code...
 }
 ```
-
-Further documentation can be found at <https://hexdocs.pm/slide10>.
 
 ## Development
 
