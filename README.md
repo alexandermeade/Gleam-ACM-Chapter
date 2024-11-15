@@ -16,6 +16,32 @@
 | Generic Functions in Gleam | [link to slides 26 through 27](https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide26_27) |
 
 
+you can install the repo directly using the install button on github or you can clone the repo with git:
+
+```
+  git clone https://github.com/alexandermeade/Gleam-ACM-Chapter.git
+  cd ./Gleam-ACM-chapter
+```
+
+if you're system says you don't have git and or need to install it you can using
+
+on arch 
+```sh
+  sudo pacman -S git
+```
+
+on debian 
+```
+  sudo apt install git
+```
+
+on windows and macos [install line](https://git-scm.com/downloads)
+
+# installing gleam
+
+for installing gleam they have made a very nice webapage to walk through it for everykind of system.
+[installing gleam](https://gleam.run/getting-started/installing/)
+
 <div align=center>
   <img width=500pxs height=500px src = "https://github.com/user-attachments/assets/8bc3550d-c4bf-48b0-bc0c-0fc3a883c7c3">
 </div>
