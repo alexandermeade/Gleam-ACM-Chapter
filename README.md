@@ -1,6 +1,8 @@
 
 # Gleam ACM Chpater Gleam
 
+<img src = "https://github.com/user-attachments/assets/8bc3550d-c4bf-48b0-bc0c-0fc3a883c7c3">
+
 | Slide Title | Link to slide project |
 |-------------|------|
 | The anatomy of a Gleam program | [link to slide 7](https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide7) |
@@ -17,4 +19,4 @@
 | Generic Functions in Gleam | [link to slides 26 through 27](https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide26_27) |
 
 
-![Gleam_mascot_Lucy svg](https://github.com/user-attachments/assets/8bc3550d-c4bf-48b0-bc0c-0fc3a883c7c3)
+
