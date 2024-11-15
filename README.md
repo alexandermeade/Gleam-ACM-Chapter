@@ -1,8 +1,6 @@
 
 # Gleam ACM Chpater Gleam
 
-<img width=500pxs height=500px src = "https://github.com/user-attachments/assets/8bc3550d-c4bf-48b0-bc0c-0fc3a883c7c3">
-
 | Slide Title | Link to slide project |
 |-------------|------|
 | The anatomy of a Gleam program | [link to slide 7](https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide7) |
@@ -20,3 +18,6 @@
 
 
 
+<div align=center>
+  <img width=500pxs height=500px src = "https://github.com/user-attachments/assets/8bc3550d-c4bf-48b0-bc0c-0fc3a883c7c3">
+</div>
