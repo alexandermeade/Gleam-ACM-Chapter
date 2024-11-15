@@ -1,7 +1,7 @@
 
 # Gleam ACM Chpater Gleam
 
-<img src = "https://github.com/user-attachments/assets/8bc3550d-c4bf-48b0-bc0c-0fc3a883c7c3">
+<img width=500pxs height=500px rc = "https://github.com/user-attachments/assets/8bc3550d-c4bf-48b0-bc0c-0fc3a883c7c3">
 
 | Slide Title | Link to slide project |
 |-------------|------|
