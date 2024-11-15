@@ -10,7 +10,7 @@
 | Lists in Gleam with the `..` operator | [link to slide 12](https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide12) |
 | Higher Order Functions in Gleam | [link to slide 13](https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide13) |
 | Anonymous Functions in Gleam | [link to slide 14](https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide14) |
-| The `|>` Operator in Gleam | [link to slide 15](https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide15) |
+| The `\|>` Operator in Gleam | [link to slide 15](https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide15) |
 | Control Flow in Gleam | [link to slides 16 through 19](https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide16_19) |
 | Custom Types, Contained Types, Records; Matching Contained Types, Generic Types, and Records. | [link to slides 20 through 26](https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide20_26) |
 | Generic Functions in Gleam | [link to slides 26 through 27](https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide26_27) |
