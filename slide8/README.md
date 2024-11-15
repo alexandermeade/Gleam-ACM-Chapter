@@ -16,8 +16,6 @@ pub fn main() {
 }
 ```
 
-Further documentation can be found at <https://hexdocs.pm/slide8>.
-
 ## Development
 
 ```sh
