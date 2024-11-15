@@ -17,8 +17,6 @@ pub fn main() {
   io.debug(first) //the first value
   io.debug(rest) //everything after the first value
 }
-![image](https://github.com/user-attachments/assets/5ffdb4dd-a2b5-43db-ac0b-ede953e45bd7)
-
 ```
 
 ## Development
