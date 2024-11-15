@@ -27,6 +27,8 @@ on windows and macos [install line](https://git-scm.com/downloads)
 for installing gleam they have made a very nice webapage to walk through it for everykind of system.
 [installing gleam](https://gleam.run/getting-started/installing/)
 
+# Project Slides
+
 | Slide Title | Link to slide project |
 |-------------|-----------------------|
 | The anatomy of a Gleam program | [link to slide 7](https://github.com/alexandermeade/Gleam-ACM-Chapter/tree/main/slide7) |
