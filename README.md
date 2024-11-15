@@ -1,6 +1,8 @@
 
 # Gleam ACM Chpater Gleam
 
+![Gleam_mascot_Lucy svg](https://github.com/user-attachments/assets/8bc3550d-c4bf-48b0-bc0c-0fc3a883c7c3)
+
 
 | Slide Title | Link to slide project |
 |-------------|------|
